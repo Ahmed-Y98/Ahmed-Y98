@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**Ahmed-Y98/Ahmed-Y98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer specializing in backend engineering, scalable systems,
+and data-intensive applications.
 
-Here are some ideas to get you started:
+I primarily work with **Java/Spring Boot** and **Go**, building production
+backend services, APIs, data pipelines, and enterprise systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Backend**
+- Java / Spring Boot
+- Go / Fiber
+- PHP / Laravel
+- Node.js
+
+**Databases & Data**
+- PostgreSQL
+- ClickHouse
+- MySQL
+- Redis
+
+**Cloud & DevOps**
+- AWS ECS / Fargate
+- Google Cloud
+- Docker
+- Jenkins
+- Nginx
+
+**Frontend**
+- React / Next.js
+- Vue.js
+
+## 🔧 What I Work On
+
+- Backend architecture & API design
+- High-traffic production systems
+- Large-scale data processing
+- ETL & data pipelines
+- Database optimization
+- Cloud infrastructure
+- Performance & reliability
+- Enterprise integrations & SSO
+
+## 🌱 Open Source
+
+### VuetyTable
+An open-source Vue.js data table library designed for backend-driven
+applications with customizable table behavior and server-side data integration.
+
+npm: https://www.npmjs.com/package/vuetytable
